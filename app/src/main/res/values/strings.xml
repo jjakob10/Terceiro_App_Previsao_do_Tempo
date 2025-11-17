@@ -16,6 +16,6 @@
     <string name="humidity">Humidade do ar</string>
     <string name="tempUnity">ºC</string>
     <string name="speedUnit">m/s</string>
-    <string name="country_code">pt-br</string>
+    <string name="country_code">pt_br</string>
     <string name="unit">metric</string>
 </resources>

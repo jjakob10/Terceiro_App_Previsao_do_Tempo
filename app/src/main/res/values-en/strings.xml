@@ -17,6 +17,6 @@
     <string name="humidity">Air humidity</string>
     <string name="tempUnity">°F</string>
     <string name="speedUnit">mi/h</string>
-    <string name="country_code">en-US</string>
+    <string name="country_code">en_US</string>
     <string name="unit">imperial</string>
 </resources>
