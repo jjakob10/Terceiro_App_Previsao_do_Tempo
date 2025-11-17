@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Previsão Do Tempo</string>
+    <string name="city_name">Nome da Cidade</string>
+    <string name="prevision">Ver Previsão</string>
+    <string name="nome_valido">Digite um nome de cidade válido!</string>
+    <string name="searching">Pesquisando por</string>
+    <string name="cityNotFound">Cidade não encontrada</string>
+    <string name="apiErro">Erro na API</string>
+    <string name="image_from_url">Image from URL</string>
+    <string name="no_name">Sem Nome</string>
+    <string name="primary_info">0.0°C, sem descrição</string>
+    <string name="max_temp">Temperatura máx</string>
+    <string name="min_temp">Temperatura mín</string>
+    <string name="feels_like">Sensação térmica</string>
+    <string name="wind_speed">Velocidade do vento</string>
+    <string name="humidity">Humidade do ar</string>
+    <string name="tempUnity">ºC</string>
+    <string name="speedUnit">m/s</string>
+    <string name="country_code">pt-br</string>
+    <string name="unit">metric</string>
+</resources>

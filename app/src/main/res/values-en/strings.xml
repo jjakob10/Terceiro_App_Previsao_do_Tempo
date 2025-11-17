@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="city_name">City Name</string>
+    <string name="prevision">See Forecast</string>
+    <string name="nome_valido">Enter a valid city name!</string>
+    <string name="searching">Searching for</string>
+    <string name="cityNotFound">City not found</string>
+    <string name="apiErro">API error</string>
+    <string name="image_from_url">Image from URL</string>
+    <string name="no_name">No Name</string>
+    <string name="primary_info">0.0°C, no description</string>
+    <string name="max_temp">Max temperature</string>
+    <string name="min_temp">Min temperature</string>
+    <string name="feels_like">Feels like</string>
+    <string name="wind_speed">Wind speed</string>
+    <string name="humidity">Air humidity</string>
+    <string name="tempUnity">°F</string>
+    <string name="speedUnit">mi/h</string>
+    <string name="country_code">en-US</string>
+    <string name="unit">imperial</string>
+</resources>
